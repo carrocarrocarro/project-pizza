@@ -1,11 +1,26 @@
-# Project Name
+# Project Pizza - Technigo week 1
 
-Replace this readme with your own information about your project. Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+This project is a part of Techingo(https://www.technigo.io/) JavaScript and React Upskill course fall 2023. This small project was the week 1 assignment. The main goal with this project was mastering vital yet basic JavaScript concepts like variables, conditionals, and native methods.
+
+The project focus was only JavaScript basic and no focus on HTML or CSS.
+
+The assignment was made individual.
+
+## About the Holiday Planner
+
+The user can use this little website to plan order food from a pizzeria.
 
 ## The problem
+I followed the project guidelines and developed the program using conditionals. First I used if-statements and later I added a script file with switch statement.  
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+#### Dev Technologies and Tools
+* JavaScript
+
+## Instructions
+
+<a href="instructions.md">
+   See instructions of this project
+</a>
 
 ## View it live
-
-Have you deployed your project somewhere? Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about
+https://our-survey-project.netlify.app/
