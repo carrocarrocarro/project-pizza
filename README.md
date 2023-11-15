@@ -23,4 +23,4 @@ I followed the project guidelines and developed the program using conditionals. 
 </a>
 
 ## View it live
-https://our-survey-project.netlify.app/
+https://sparkling-heliotrope-1a023b.netlify.app/
